@@ -1,0 +1,7 @@
+Results:
+sum_C: 0.97
+sum_simple: 1.04
+sum_unrolled2: 0.82
+sum_unrolled4: 0.81
+sum_multiple_accum: 0.48
+sum_multiple_accum_C: 0.44
